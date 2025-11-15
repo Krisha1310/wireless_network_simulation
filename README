@@ -3,7 +3,7 @@ To run this simulation, the following actions are requred:
 1) 	This simulation requires veins_launchd to be started and listening for 
 	connections on a TCP socket, e.g. using "~/src/veins/bin/veins_launchd -vv".
 
-	python3 veins_launchd -vv -c /home/hakim/sumo-1_18_0/bin/sumo
+	python3 veins_launchd -vv -c /home/kdiyora/sumo-1_18_0/bin/sumo
 	
 	
 
